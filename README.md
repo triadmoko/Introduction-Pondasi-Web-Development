@@ -27,7 +27,7 @@ Roadmap ini dibuat oleh : <a href="https://github.com/kamranahmedse">Kamranahmed
 
 ## Video Pembelajaran Pondasi Web Developer
 ***
-1. Git - Version Control ![Vido Tutorial]()
+1. Git - Version Control ![Vido Tutorial](https://lh3.googleusercontent.com/a-/AOh14Giuz9_HZDSXXlSWWGjNH09X4jckVFRF4Uzw13aj=s600-k-no-rp-mo)
 2. Basic Terminal Usage ![Comming Soon...]()
 3. Data Structure & Algorithma ![Comming Soon...]()
 4. GitHub ![Comming Soon...]()
