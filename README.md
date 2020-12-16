@@ -29,8 +29,8 @@ Roadmap ini dibuat oleh : <a href="https://github.com/kamranahmedse">Kamranahmed
 video ini ditayangkan di Youtube Channel TDF Programming.
 ***
 1. <a href="https://www.youtube.com/c/TDFProgramming">Git - Version Control <img width="20px" src="https://lh3.googleusercontent.com/a-/AOh14Giuz9_HZDSXXlSWWGjNH09X4jckVFRF4Uzw13aj=s600-k-no-rp-mo"></a>
-2. Basic Terminal Usage ![Comming Soon...]()
-3. Data Structure & Algorithma ![Comming Soon...]()
+2. Basic Terminal Usage ![Comming Soon...]
+3. Data Structure & Algorithma ![Comming Soon...]
 4. GitHub ![Comming Soon...]()
 5. Licenses ![Comming Soon...]()
 6. Semantic Versioning ![Comming Soon...]()
