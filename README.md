@@ -20,7 +20,7 @@ Roadmap ini dibuat oleh : <a href="https://github.com/kamranahmedse">Kamranahmed
 
 <p align="center"><strong>Tujuan Roadmap</strong></p>
 
-> Tujuan dari Roadmap ini adalah untuk memberikan gambaran tentang panduan anda jika anda bingung tentang apa yang harus dipelajari selanjutnya dan tidak mendorong anda untuk memilih apa yang trendi dan trendi. Anda harus menumbuhkan pemahaman tentang mengapa satu bidang akan lebih cocok untuk beberapa kasus daripada yang lain dan ingat hip dan trendi tidak pernah berarti paling cocok untuk pekerjaan itu.<
+> Tujuan dari Roadmap ini adalah untuk memberikan gambaran tentang panduan anda jika anda bingung tentang apa yang harus dipelajari selanjutnya dan tidak mendorong anda untuk memilih apa yang trendi dan trendi. Anda harus menumbuhkan pemahaman tentang mengapa satu bidang akan lebih cocok untuk beberapa kasus daripada yang lain dan ingat hip dan trendi tidak pernah berarti paling cocok untuk pekerjaan itu.
 ***
 ## Pondasi Web Developer
 ![Pondasi Roadmap Web Developer](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/intro.png)
