@@ -1,4 +1,4 @@
-# Introduction-Pondasi-Web-Development
+# Pengenalan Pondasi menjadi Web Developer
 Pondasi yang harus dimiliki untuk menjadi Web Development di 3 bagian yaitu : Frontend, Backend dan DevOps
 Roadmap ini dibuat oleh : <a href="https://github.com/kamranahmedse">Kamranahmedse</a>.
 
@@ -22,6 +22,20 @@ Roadmap ini dibuat oleh : <a href="https://github.com/kamranahmedse">Kamranahmed
 
 > Tujuan dari Roadmap ini adalah untuk memberikan gambaran tentang panduan anda jika anda bingung tentang apa yang harus dipelajari selanjutnya dan tidak mendorong anda untuk memilih apa yang trendi dan trendi. Anda harus menumbuhkan pemahaman tentang mengapa satu bidang akan lebih cocok untuk beberapa kasus daripada yang lain dan ingat hip dan trendi tidak pernah berarti paling cocok untuk pekerjaan itu.
 ***
-## Pondasi
+## Pondasi Web Developer
 ![Pondasi Roadmap Web Developer](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/intro.png)
 
+## Video Pembelajaran Pondasi Web Developer
+***
+1. Git - Version Control ![Vido Tutorial]()
+2. Basic Terminal Usage ![Comming Soon...]()
+3. Data Structure & Algorithma ![Comming Soon...]()
+4. GitHub ![Comming Soon...]()
+5. Licenses ![Comming Soon...]()
+6. Semantic Versioning ![Comming Soon...]()
+7. SSH ![Comming Soon...]()
+8. HTTP/HTTPS & APIs ![Comming Soon...]()
+9. Design Pattern ![Comming Soon...]()
+10. Character Endcoding ![Comming Soon...]()
+
+***
