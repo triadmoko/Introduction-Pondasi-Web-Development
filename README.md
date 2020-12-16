@@ -28,17 +28,16 @@ Roadmap ini dibuat oleh : <a href="https://github.com/kamranahmedse">Kamranahmed
 ## Video Pembelajaran Pondasi Web Developer
 video ini ditayangkan di Youtube Channel TDF Programming.
 ***
-1. <a href="https://www.youtube.com/c/TDFProgramming">Git - Version Control <img width="20px" src="https://lh3.googleusercontent.com/a-/AOh14Giuz9_HZDSXXlSWWGjNH09X4jckVFRF4Uzw13aj=s600-k-no-rp-mo"></a>
-2. Basic Terminal Usage <label style="color:blue">Comming Soon ...</label>
+1. <a href="https://www.youtube.com/c/TDFProgramming">Git - Version Control <img width="20px" src="https://lh3.googleusercontent.com/a-/AOh14Giuz9_HZDSXXlSWWGjNH09X4jckVFRF4Uzw13aj=s600-k-no-rp-mo"></a> *Comming Soon*
+2. Basic Terminal Usage *Comming Soon*
 
-3. Data Structure & Algorithma 
-4. GitHub 
-5. Licenses 
-6. Semantic Versioning 
-7. SSH 
-8. HTTP/HTTPS & APIs 
-9. Design Pattern 
-10. Character Endcoding 
+3. Data Structure & Algorithma *Comming Soon*
+4. GitHub *Comming Soon*
+5. Licenses *Comming Soon*
+6. Semantic Versioning *Comming Soon*
+7. SSH *Comming Soon*
+8. HTTP/HTTPS & APIs *Comming Soon*
+9. Design Pattern *Comming Soon*
+10. Character Endcoding *Comming Soon*
 
 ***
-<span style="color:blue">some **blue selamat datang** text</span>.
