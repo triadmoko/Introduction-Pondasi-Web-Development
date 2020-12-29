@@ -28,8 +28,8 @@ Roadmap ini dibuat oleh : <a href="https://github.com/kamranahmedse">Kamranahmed
 ## Video Pembelajaran Pondasi Web Developer
 video ini ditayangkan di Youtube Channel TDF Programming.
 ***
-1. <a href="https://www.youtube.com/c/TDFProgramming">Git - Version Control <img width="20px" src="https://lh3.googleusercontent.com/a-/AOh14Giuz9_HZDSXXlSWWGjNH09X4jckVFRF4Uzw13aj=s600-k-no-rp-mo"></a> *Comming Soon*
-2. Basic Terminal Usage **>** *Comming Soon*
+1. <a href="https://www.youtube.com/watch?v=8QSgCeD10FY&list=PL6wCUclraERJPVh0BPxAUAIOFG9SZKyDT">Git - Version Control <img width="20px" src="https://lh3.googleusercontent.com/a-/AOh14Giuz9_HZDSXXlSWWGjNH09X4jckVFRF4Uzw13aj=s600-k-no-rp-mo"></a> *Comming Soon*
+2. Basic Terminal Usage **>**
 
 3. Data Structure & Algorithma **>** *Comming Soon*
 4. GitHub **>** *Comming Soon*
