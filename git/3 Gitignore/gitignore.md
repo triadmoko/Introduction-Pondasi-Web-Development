@@ -37,3 +37,5 @@ git rm -r --cached "nama_file"
 Script diatas lebih berfungsi digunakan untuk menghapus file dari indeks. Dalam kasus dimana file sudah di simpan, `git rm --cached` akan menghapus file dari indeks, meninggalkannya di direktori kerja dan komit sekarang akan menghapusnya dari repo juga. Pada dasarnya, setelah komit, Anda akan membatalkan versi file dan menyimpan salinan lokal.
 
 <br> Setelah anda melakukan hal diatas, coba lakukan `commit` di working area anda.
+Anda bisa cek video di youtube 
+<a href="https://www.youtube.com/watch?v=NeC9C6xjwA4&list=PL6wCUclraERJPVh0BPxAUAIOFG9SZKyDT&index=4"> TDF Programming </a>
