@@ -60,4 +60,4 @@ Jika anda hanya menampilkan catatan perubahan tertentu, anda bisa menggunakan be
    Sekarang akan kita coba untuk melakukan log yang dilakukan oleh pengguna lain menggunakan email agar lebih spesifik:
     ![menggunakan email agar lebih spesifik](9.png)
 
-Anda dapat melihat tutorial berupa video melalui <a href="https://www.youtube.com/watch?v=NeC9C6xjwA4">link ini</a> 
+Anda dapat melihat tutorial berupa video melalui <a href="https://www.youtube.com/watch?v=NeC9C6xjwA4">link ini</a>  
