@@ -21,8 +21,8 @@ Jika anda hanya menampilkan catatan perubahan tertentu, anda bisa menggunakan be
    git log --oneline
    ```
    Maka anda akan melihat tampilan seperti ini :
-   ![git log --oneline](2.png) 
-   <br><br>
+   <br>![git log --oneline](2.png)<br>
+   <br>
 2. `git log nomor commit`
    <br>
    Anda dapat menggunakan nomor commit untuk melihat catatan perubahan dengan script seperti berikut :
@@ -30,9 +30,9 @@ Jika anda hanya menampilkan catatan perubahan tertentu, anda bisa menggunakan be
     git log nomor_commit
    ```
    Maka akan tampil seperti gambar berikut : 
-   ![git log nomor_commit](3.png)
+   <br>![git log nomor_commit](3.png)<br>
    git log dengan nomor commit oneline :
-   ![git log dengan nomor commit oneline](3.png)
+   <br>![git log dengan nomor commit oneline](3.png)<br>
 3. `git log dengan file tertentu`
     <br>
     Menampilkan perubahan pada file tertentu sangat penting anda gunakan, agar anda dapat melihat perubahan apa saja yang telah dilakukan oleh pengguna.
@@ -41,12 +41,12 @@ Jika anda hanya menampilkan catatan perubahan tertentu, anda bisa menggunakan be
     git log nama_file
     ```
     Anda akan melihat seperti gambar berikut sebagai contoh :
-    ![Struktur Folder](5.png)
+    <br>![Struktur Folder](5.png)<br>
     gambar diatas adalah struktur folder yang sedang digunakan. Kita akan melihat perubahan yang ada pada file `index.html`
-    ![Perubahan git log index.html](6.png)
+    <br>![Perubahan git log index.html](6.png)<br>
     Kita akan lakukan perubahan yang ada didalam file index.html tersebut lalu kita akan cek lagi perubahannya
-    ![Update git log index.html](7.png)
-    <br><br>
+    <br>![Update git log index.html](7.png)<br>
+    <br>
 4. `Menampilkan Perubahan Oleh Author `
    <br>
    Jika anda bekerja dengan tim maka hal ini sangat perlu anda ketahui. Siapa yang telah melakukan commit atau perubahan maka anda dapat mengetahuinya. Anda dapat melakukan hal tersebut seperti berikut :
@@ -54,10 +54,10 @@ Jika anda hanya menampilkan catatan perubahan tertentu, anda bisa menggunakan be
     git log --author="nama_pengguna"
    ``` 
    Anda dapat melihat seperti gambar berikut :
-   ![Git log tdf programming](8.png)
+   <br>![Git log tdf programming](8.png)<br>
    ini merupakan perubahan yang dilakukan oleh pengguna **`tdf programming`**
 
    Sekarang akan kita coba untuk melakukan log yang dilakukan oleh pengguna lain menggunakan email agar lebih spesifik:
-    ![menggunakan email agar lebih spesifik](9.png)
+   <br>![menggunakan email agar lebih spesifik](9.png)<br>
 
-Anda dapat melihat tutorial berupa video melalui <a href="https://www.youtube.com/watch?v=NeC9C6xjwA4">link ini</a>  
+Anda dapat melihat tutorial berupa video melalui <a href="https://www.youtube.com/watch?v=NeC9C6xjwA4">link ini</a> 

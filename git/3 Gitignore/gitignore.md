@@ -4,7 +4,7 @@ Apa itu gitignore? gitignore merupakan sebuah file yang akan digunakan untuk men
 ## Kenapa Gitignore Penting
 Jika anda seorang programmer yang berkerja menggunakan framework, akan lebih baik anda menggukanan `file .gitignore` yang sudah disediakan. Anda bisa lihat <a href="https://github.com/github/gitignore">disini.</a>
 <br>
-Salah satu contoh kasus : ![Gambar](1.png)
+Salah satu contoh kasus : <br>![Gambar](1.png)<br>
 Pada gambar diatas anda melihat beberapa `folder`, didalam folder tersebut ada beberapa konfigurasi yang tidak ingin orang mengetahuinya. misalkan `folder config`, folder tersebut merupakan konfigurasi program anda termasuk password, database, API bahkan yang lain. Jika anda tidak mengabaikannya menggunakan file `.gitignore` otomatis folder tersebut akan tersimpan kedalam repositori anda.
 
 ## Membuat File Gitignore
