@@ -21,7 +21,7 @@ Selain itu, berikut ini ada beberapa menfaat yang akan kamu rasakan setelah bisa
 1. Bisa membuat blog dengan SSG.
 1. dan sebagainya…
 
-
+ 
 
 ## Daftar Pustaka 
 https://www.petanikode.com/git-untuk-pemula/ <br>
