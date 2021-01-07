@@ -90,6 +90,6 @@ git diff cf08ca0837cf26f1c595be36bb3a6b815e311be1 06f735af7724558164c87f6b1ce3ca
 ## Perbandingan Antar Cabang (Branch)
 Kita memang belum masuk ke materi percabangan di Git. Tapi tidak ada salahnya megetahui cara melihat perbandingan perubahan antar cabang.
 
-```cosole
+```console
 git diff <nama cabang> <nama cabang>
 ```
