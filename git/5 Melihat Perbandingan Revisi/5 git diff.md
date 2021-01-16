@@ -57,4 +57,29 @@ Setelah diubah:
 ```
 Setelah itu lakukan jalankan perintah git diff lagi.
 
-Perbedaan revisi
+## Melihat Perbandingan pada File
+Apa bila kita melakukan banyak perubahan, maka akan banyak sekali tampil output. Karena itu, kita mungkin hanya perlu melihat perubahan untuk file tertentu saja. Untuk melihat perbandingan perubahan pada file tertentu, gunakan perintah berukut.
+
+``` console
+git diff index.html
+```
+Perintah di atas akan melihat pebedaan perubahan pada file index.html saja.#
+
+## Melihat Perbandingan antar Revisi/Commit
+Perintah untuk membandingkan perubahan pada revisi dengan revisi yang lain adalah sebagai berikut.
+
+```console 
+git diff <nomer commit> <nomer commit>
+```
+contoh:
+
+```console
+git diff cf08ca0837cf26f1c595be36bb3a6b815e311be1 06f735af7724558164c87f6b1ce3ca7778eb1c1b
+```
+
+## Perbandingan Antar Cabang (Branch)
+Kita memang belum masuk ke materi percabangan di Git. Tapi tidak ada salahnya megetahui cara melihat perbandingan perubahan antar cabang.
+
+```console
+git diff <nama cabang> <nama cabang>
+```
