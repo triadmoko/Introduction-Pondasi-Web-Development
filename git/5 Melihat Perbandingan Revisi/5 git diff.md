@@ -14,20 +14,20 @@ Pada gambar di atas anda melihat simbol `+` , simbol tersebut berarti anda menam
 <br>
 Jika anda melihat simbol `-` berarti anda menghapus barisan kode tersebut.
 
-<b>sumber : Petani Kode<b>
+<b>sumber : Petani Kode</b><br>
 Contoh:
 
 Ditambahkan:
 
-`+ <p>ini kode yang ditambahkan</p>`
+`+ <p>ini kode yang ditambahkan</p>`<br>
 Dihapus:
 
-`- <i>ini kode yang dihapus</i>`
+`- <i>ini kode yang dihapus</i>`<br>
 Dimodifikasi/diubah:
-
-- <span>ini kode sebelum diubah</span>
-+ <span>ini kode sesudah diubah</span>
-Sekarang kita akan mencoba merubah isi dari index.html.
+<br>
+- <span>ini kode sebelum diubah</span><br>
++ <span>ini kode sesudah diubah</span><br>
+Sekarang kita akan mencoba merubah isi dari index.html.<br>
 
 Sebelum diubah:
 ```html
