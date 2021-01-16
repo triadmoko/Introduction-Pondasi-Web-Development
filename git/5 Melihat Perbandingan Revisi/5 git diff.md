@@ -15,47 +15,6 @@ Pada gambar di atas anda melihat simbol `+` , simbol tersebut berarti anda menam
 Jika anda melihat simbol `-` berarti anda menghapus barisan kode tersebut.
 
 <b>sumber : Petani Kode</b><br>
-Contoh:
-
-Ditambahkan:
-
-`+ <p>ini kode yang ditambahkan</p>`<br>
-Dihapus:
-
-`- <i>ini kode yang dihapus</i>`<br>
-Dimodifikasi/diubah:
-<br>
-- <span>ini kode sebelum diubah</span><br>
-+ <span>ini kode sesudah diubah</span><br>
-Sekarang kita akan mencoba merubah isi dari index.html.<br>
-
-Sebelum diubah:
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Belajar Git - Project 01</title>
-    </head>
-    <body>
-        <p>Hello Semua, Saya sedang belajar Git</p>
-    </body>
-</html>
-```
-Setelah diubah:
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Belajar Git - Project 01</title>
-    </head>
-    <body>
-        <p>Hello Dunia!, Saya sedang belajar Git</p>
-    </body>
-</html>
-```
-Setelah itu lakukan jalankan perintah git diff lagi.
 
 ## Melihat Perbandingan pada File
 Apa bila kita melakukan banyak perubahan, maka akan banyak sekali tampil output. Karena itu, kita mungkin hanya perlu melihat perubahan untuk file tertentu saja. Untuk melihat perbandingan perubahan pada file tertentu, gunakan perintah berukut.
