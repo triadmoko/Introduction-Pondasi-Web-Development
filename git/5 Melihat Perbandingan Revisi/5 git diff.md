@@ -13,4 +13,3 @@ Jika anda menggunakan script diatas maka hasilnya akan seperti ini.
 Pada gambar di atas anda melihat simbol `+` , simbol tersebut berarti anda menambahkan barisan kode. 
 <br>
 Jika anda melihat simbol `-` berarti anda menghapus barisan kode tersebut.
-
