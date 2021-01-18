@@ -12,7 +12,7 @@ Jika anda menggunakan script diatas maka hasilnya akan seperti ini.
 
 Pada gambar di atas anda melihat simbol `+` , simbol tersebut berarti anda menambahkan barisan kode. 
 <br>
-<<<<<<< HEAD
+
 Jika anda melihat simbol `-` berarti anda menghapus barisan kode tersebut.
 =======
 Jika anda melihat simbol `-` berarti anda menghapus barisan kode tersebut.
@@ -45,4 +45,4 @@ Kita memang belum masuk ke materi percabangan di Git. Tapi tidak ada salahnya me
 ```console
 git diff <nama cabang> <nama cabang>
 ```
->>>>>>> 34c39b6f69d1f20f2269db182fe5be0c67986133
+
