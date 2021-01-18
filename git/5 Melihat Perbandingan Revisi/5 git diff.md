@@ -14,7 +14,7 @@ Pada gambar di atas anda melihat simbol `+` , simbol tersebut berarti anda menam
 <br>
 
 Jika anda melihat simbol `-` berarti anda menghapus barisan kode tersebut.
-=======
+
 Jika anda melihat simbol `-` berarti anda menghapus barisan kode tersebut.
 
 <b>sumber : Petani Kode</b><br>
