@@ -45,4 +45,3 @@ Kita memang belum masuk ke materi percabangan di Git. Tapi tidak ada salahnya me
 ```console
 git diff <nama cabang> <nama cabang>
 ```
-
